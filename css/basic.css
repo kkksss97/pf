@@ -93,32 +93,14 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .inner { }
 #section04  h1 { font-family: 'Domine', '맑은 고딕', 'malgun gothic', sans-serif; }
 #section04 .port01 { padding-bottom:180px; background:url('../img/bg_pf1.jpg')  no-repeat 1000px 0; }
-#section04 .port02 { padding-bottom:180px; background:url('../img/bg_pf2.jpg')  no-repeat 1000px 0; }
+#section04 .port02 { padding-bottom:180px; background:url('../img/bg_pf2-1.jpg')  no-repeat 1000px 0; }
 #section04 .port03 { padding-bottom:180px; background:url('../img/bg_pf3.jpg') no-repeat -30px 0; }
 #section04 .port04 { padding-bottom:180px; background:url('../img/bg_pf4.jpg') no-repeat 90px 0; }
 
 #section04 .inner .pfTitle { position:relative; }
 
-/*이전꺼
-#section04 .pfNum { position:absolute; font-size:50px; font-weight:bold; color:#505050; margin-left:220px;   }
-#section04 .pfTopic { position:relative; float:right; margin-right:920px; margin-top:100px;  font-size:40px; font-weight:bold; color:rgb(45, 47, 49);  }
 
-#section04 .siteName {   float:right; font-size:26px; font-weight:bold; top:120px; padding-top:170px; margin-right:-240px; }
-
-#section04 .pfImg { margin-left:580px; width:850px;  margin-top:0; }
-.pfInfo { padding-left:1160px; font-size:25px; font-weight:bold; margin-top:-200px;  }
-#section04 .pfInfo_sub { padding-left:1160px; font-size:25px; margin-top:80px; }
-#section04 .btnSet { }
-#section04 .btnSet li { float:left; }
-#section04 .btnSet .btnMb { width: 200px;
-    height: 48px; margin-left:1160px; margin-top:40px; border-radius: 50px;  background:rgb(159, 197, 233);  }
- #section04 .btnSet .btnMb a { font-size:23px; padding-left:15px; line-height:38px;  }
-#section04 .btnSet .btnPC { width: 200px;
-        height: 48px; margin-left:1160px; margin-top:40px; border-radius: 50px;  background:rgb(159, 197, 233);  }
-#section04 .btnSet .btnPC a { font-size:23px; padding-left:15px; line-height:38px; }
-*/
-
-/*수정 추가*/
+/* 추가*/
 #section04 .pfNum { width:1400px; margin:auto; font-size:50px; font-weight:bold; color:#505050;  }
 
 #section04 .port01_cont {  width:1000px; margin:auto;}
@@ -151,7 +133,7 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .port02_cont .pfImg { float:left; width:550px; }
 #section04 .port02_cont .port02_txt { float:right; width:400px;  }
 #section04 .port02_cont .port02_txt .pfInfo { }
-#section04 .port02_cont .port02_txt .pfTopic { font-size:40px; font-weight:bold; margin-bottom:10px; border-bottom:4px solid rgb(183, 202, 209); color:#505050; }
+#section04 .port02_cont .port02_txt .pfTopic { font-size:40px; font-weight:bold; margin-bottom:10px; border-bottom:4px solid rgb(245, 177, 32); color:#505050; }
 #section04 .port02_cont .port02_txt .siteName { font-size:30px; color:#505050; margin-top:20px; margin-bottom:10px; }
 #section04 .port02_cont .port02_txt .siteInfo { font-size:20px; margin-bottom:10px; }
 #section04 .port02_cont .port02_txt .pfInfo_sub { color:#8f8e8e; }
@@ -171,23 +153,6 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .port03_cont .port01_txt { float:right; width:400px;  }
 .port01_cont:after { display:block; content:""; clear:both; }
 
-/* 
-#section04 .port02_cont {  width:1000px; margin:auto;}
-#section04 .port02_cont .pfImg { float:left; width:550px; }
-#section04 .port02_cont .port02_txt { float:right; width:400px;  }
-#section04 .port02_cont .port02_txt .pfInfo { }
-#section04 .port02_cont .port02_txt .pfTopic { font-size:40px; font-weight:bold; margin-bottom:10px; border-bottom:4px solid skyblue; color:#505050; }
-#section04 .port02_cont .port02_txt .siteName { font-size:30px; color:#505050; margin-top:20px; margin-bottom:10px; }
-#section04 .port02_cont .port02_txt .siteInfo { font-size:20px; margin-bottom:10px; }
-#section04 .port02_cont .port02_txt .pfInfo_sub { color:#8f8e8e; }
-#section04 .port02_cont .port02_txt .btnSet {  }
-#section04 .port02_cont .port02_txt .btnSet li { float:left; padding:10px; }
-#section04 .port02_cont .port02_txt .btnSet .btnMb { background:rgb(94, 95, 95);   border-radius:5px; width:150px;  padding:6px 10px; }
-#section04 .port02_cont .port02_txt .btnSet .btnMb a {color:#fff; font-size:20px; text-align:center; }
-#section04 .port02_cont .port02_txt .btnSet .btnPC {  background:rgb(94, 95, 95); border-radius:5px; width:150px;  padding:6px 10px; }
-#section04 .port02_cont .port02_txt .btnSet .btnPC a {color:#fff; font-size:20px; text-align:center; padding:6px 10px; }
-.port02_cont:after { display:block; content:""; clear:both; }
-*/
 
 #section04 .port03_cont {  width:1000px; margin:auto; }
 #section04 .port03_cont .pfImg { float:left; width:350px;  }
@@ -220,13 +185,7 @@ section h1 { font-size:40px; padding:100px; }
 .port04_cont:after { display:block; content:""; clear:both; }
 
 
-/*이전꺼()
-#section04 .port02 { }
-#section04 .port02 .pfTopic { position:relative; float:right; margin-right:920px; margin-top:100px;  font-size:40px; font-weight:bold; color:rgb(45, 47, 49); }
-#section04 .port02 .siteName { float:right; font-size:26px; font-weight:bold; top:120px; padding-top:170px; margin-right:-160px; }
-#section04 .port02 .pfInfo { padding-left:1160px; font-size:25px; font-weight:bold; margin-top:-200px;  }
-#section04 .port02 .pfInfo_sub { padding-left:1160px; font-size:25px; } 
-*/
+
 
 /*수정 추가*/
 #section04 .pfNum { width:1400px; margin:auto; font-size:50px; font-weight:bold; color:#505050;  }

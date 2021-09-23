@@ -81,13 +81,13 @@ $(document).ready(function(){
 
 // 모바일 크기로 새창 띄우기_반응형1
 function mobileOpen1() {
-    window.open('https://kkksss97.cafe24.com/responsive/KIA%20Bongo%E2%85%A2/index.html','반응형1','width=450; height=700; scrolling=no; resizable=no; left=500; top=200');
+    window.open('https://kkksss97.cafe24.com/responsive/Lincoln_CORSAIR/index.html','반응형1','width=550; height=700; scrolling=no; resizable=no; left=500; top=200');
 };
 //window.open("주소","팝업이름","속성");
 
 // 모바일 크기로 새창 띄우기_반응형2
   function mobileOpen2() {
-    window.open('https://kkksss97.cafe24.com/bootstrap/PXG/index.html','반응형2','width=450; height=700; scrolling=no; resizable=no; left=500; top=200');
+    window.open('https://kkksss97.cafe24.com/bootstrap/BESPORKE/index.html','반응형2','width=450; height=700; scrolling=no; resizable=no; left=500; top=200');
 };
 //window.open("주소","팝업이름","속성");
 
