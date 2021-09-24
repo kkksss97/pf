@@ -85,9 +85,9 @@ section h1 { font-size:40px; padding:100px; }
 .prof03_cont:after { display:block; content:""; clear:both; }
 
 #section03 .prof03_cont ul {  }
-#section03 .prof03_cont li {  float:left; text-align:center; padding:2px; }
+#section03 .prof03_cont li {  float:left; text-align:center; padding:2px; width:210px; height:210px; }
 #section03 .prof03_cont img { width:127px; height:127px; margin-left:5px; margin-bottom:20px; }
-#section03 .skill_n { padding:20px; margin-left:55px; margin-bottom:15px; font-size:25px; font-weight:bold; }
+#section03 .skill_n { padding:20px; margin-left:11px; margin-bottom:15px; font-size:25px; font-weight:bold; }
 
 #section04 { height:3000px;  } /*테두리 색 추가*/
 #section04 .inner { }
