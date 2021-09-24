@@ -84,8 +84,8 @@ section h1 { font-size:40px; padding:100px; }
 #section03 .prof03_cont .prof03_txt { float:right; width:400px;  }
 .prof03_cont:after { display:block; content:""; clear:both; }
 
-#section03 .prof03_cont ul {  }
-#section03 .prof03_cont li {  float:left; text-align:center; padding:2px; width:210px; height:210px; }
+#section03 .prof03_cont ul { margin-left: 10px; }
+#section03 .prof03_cont li {  float:left; text-align:center; padding:2px; width:174px; height:210px; }
 #section03 .prof03_cont img { width:127px; height:127px; margin-left:5px; margin-bottom:20px; }
 #section03 .skill_n { padding:20px; margin-left:11px; margin-bottom:15px; font-size:25px; font-weight:bold; }
 
