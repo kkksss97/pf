@@ -87,7 +87,7 @@ function mobileOpen1() {
 
 // 모바일 크기로 새창 띄우기_반응형2
   function mobileOpen2() {
-    window.open('https://kkksss97.cafe24.com/bootstrap/BESPORKE/index.html','반응형2','width=450; height=700; scrolling=no; resizable=no; left=500; top=200');
+    window.open('https://kkksss97.cafe24.com/bootstrap/BESPOKE/index.html','반응형2','width=450; height=700; scrolling=no; resizable=no; left=500; top=200');
 };
 //window.open("주소","팝업이름","속성");
 

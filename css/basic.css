@@ -79,14 +79,14 @@ section h1 { font-size:40px; padding:100px; }
 #section03 h1 { font-family: 'Domine', '맑은 고딕', 'malgun gothic', sans-serif;  }
 #section03 .pfNum { width:1400px; margin:auto; font-size:50px; font-weight:bold; color:#505050;  }
 
-#section03 .prof03_cont {  width:1400px; margin:auto;  padding-top: 90px; }
-#section03 .prof03_cont .pfImg { float:left; width:550px; }
+#section03 .prof03_cont {  width:1500px; margin:auto;  padding-top: 90px; }
+#section03 .prof03_cont .pfImg { float:left; width:250px; }
 #section03 .prof03_cont .prof03_txt { float:right; width:400px;  }
 .prof03_cont:after { display:block; content:""; clear:both; }
 
 #section03 .prof03_cont ul {  }
-#section03 .prof03_cont li {  float:left; text-align:center; padding:10px; }
-#section03 .prof03_cont img { width:127px; height:127px; margin-left:55px; margin-bottom:20px; }
+#section03 .prof03_cont li {  float:left; text-align:center; padding:2px; }
+#section03 .prof03_cont img { width:127px; height:127px; margin-left:5px; margin-bottom:20px; }
 #section03 .skill_n { padding:20px; margin-left:55px; margin-bottom:15px; font-size:25px; font-weight:bold; }
 
 #section04 { height:3000px;  } /*테두리 색 추가*/
@@ -113,9 +113,9 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .port01_cont .port01_txt .pfInfo_sub { color:#8f8e8e; }
 #section04 .port01_cont .port01_txt .btnSet {  }
 #section04 .port01_cont .port01_txt .btnSet li { float:left; padding:10px; }
-#section04 .port01_cont .port01_txt .btnSet .btnMb { background:rgb(87, 113, 228);  border-radius:5px; width:150px;  padding:6px 10px; }
-#section04 .port01_cont .port01_txt .btnSet .btnMb a {color:#fff; font-size:20px; text-align:center; }
-#section04 .port01_cont .port01_txt .btnSet .btnPC {  background:rgb(87, 113, 228);  border-radius:5px; width:150px;  padding:6px 10px; }
+
+
+#section04 .port01_cont .port01_txt .btnSet .btnPC {  background:rgb(87, 113, 228);  border-radius:5px;   padding:6px 10px; }
 #section04 .port01_cont .port01_txt .btnSet .btnPC a {color:#fff; font-size:20px; text-align:center; padding:6px 10px;  }
 .port01_cont:after { display:block; content:""; clear:both; }
  
@@ -139,9 +139,9 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .port02_cont .port02_txt .pfInfo_sub { color:#8f8e8e; }
 #section04 .port02_cont .port02_txt .btnSet {  }
 #section04 .port02_cont .port02_txt .btnSet li { float:left; padding:10px; }
-#section04 .port02_cont .port02_txt .btnSet .btnMb { background:rgb(94, 95, 95);  border-radius:5px; width:150px;  padding:6px 10px; }
+#section04 .port02_cont .port02_txt .btnSet .btnMb { background:rgb(236, 167, 17);  border-radius:5px; width:150px;  padding:6px 10px; }
 #section04 .port02_cont .port02_txt .btnSet .btnMb a {color:#fff; font-size:20px; text-align:center; }
-#section04 .port02_cont .port02_txt .btnSet .btnPC {  background:rgb(94, 95, 95);  border-radius:5px; width:150px;  padding:6px 10px; }
+#section04 .port02_cont .port02_txt .btnSet .btnPC {  background:rgb(236, 167, 17);  border-radius:5px; width:150px;  padding:6px 10px; }
 #section04 .port02_cont .port02_txt .btnSet .btnPC a {color:#fff; font-size:20px; text-align:center; padding:6px 10px;  }
 .port02_cont:after { display:block; content:""; clear:both; }
  
@@ -150,7 +150,7 @@ section h1 { font-size:40px; padding:100px; }
 
 #section04 .port03_cont {  width:1000px; margin:auto;}
 #section04 .port03_cont .pfImg { float:left; width:550px; }
-#section04 .port03_cont .port01_txt { float:right; width:400px;  }
+#section04 .port03_cont .port03_txt { float:right; width:400px;  }
 .port01_cont:after { display:block; content:""; clear:both; }
 
 
@@ -164,10 +164,9 @@ section h1 { font-size:40px; padding:100px; }
 #section04 .port03_cont .port03_txt .pfInfo_sub { color:#8f8e8e; }
 #section04 .port03_cont .port03_txt .btnSet {  }
 #section04 .port03_cont .port03_txt .btnSet li { float:left; padding:10px; }
-#section04 .port03_cont .port03_txt .btnSet .btnMb { background:rgb(148, 29, 148);  border-radius:5px; width:150px;  padding:6px 10px; }
-#section04 .port03_cont .port03_txt .btnSet .btnMb a { color:#fff; font-size:20px; text-align:center; }
+
 .port03_cont:after { display:block; content:""; clear:both; }
-#section04 .port03_cont .port03_txt .btnSet .btnPC {  background:rgb(148, 29, 148); border-radius:5px; width:150px;  padding:6px 10px; }
+#section04 .port03_cont .port03_txt .btnSet .btnPC {  background:rgb(148, 29, 148); border-radius:5px;   padding:6px 10px; }
 #section04 .port03_cont .port03_txt .btnSet .btnPC a {color:#fff; font-size:20px; text-align:center; padding:6px 10px;  }
 
 #section04 .port04_cont {  width:1000px; margin:auto;}
